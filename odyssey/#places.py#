@@ -37,6 +37,8 @@ class Odyssey:
                                            f[:-4], datetime.date.today(),
                                            'ody'))
 
+    def load(self, )
+
 
 class Visit:
     """A single visit to some Location"""
