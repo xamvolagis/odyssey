@@ -1,0 +1,8 @@
+setup.py
+odyssey/__init__.py
+odyssey/places.py
+odyssey.egg-info/PKG-INFO
+odyssey.egg-info/SOURCES.txt
+odyssey.egg-info/dependency_links.txt
+odyssey.egg-info/not-zip-safe
+odyssey.egg-info/top_level.txt
